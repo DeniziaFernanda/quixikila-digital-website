@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ucan.quixikila_digital",
+      "sha256_cert_fingerprints": ["0C:CC:97:48:85:C0:A4:F7:D0:C4:B9:63:69:A3:51:B8:F7:2C:17:9C:F4:1A:9B:52:36:E4:A6:1B:96:4F:9C:4F"]
+    }
+  }
+]

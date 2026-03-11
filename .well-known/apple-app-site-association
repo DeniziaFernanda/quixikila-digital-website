@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.ucan.quixikila_digital",
+        "paths": ["/join/*", "/join"]
+      }
+    ]
+  }
+}
